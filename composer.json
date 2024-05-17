@@ -1,0 +1,11 @@
+{
+  "name": "kristos80/dto",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kristos80\\Dto\\": "src"
+    }
+  }
+}
